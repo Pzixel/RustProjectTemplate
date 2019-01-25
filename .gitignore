@@ -2,4 +2,3 @@
 /cmake-build-debug/
 /.idea/
 **/*.rs.bk
-imagedb/Cargo.lock
